@@ -1,0 +1,15 @@
+POST http://localhost:3001/api/blogs/ 
+Content-Type: application/json
+
+# {
+#   "title": "Watchmen",
+#   "author": "AllenMoore",
+#   "url": "getcomics.info",
+#   "likes": 420
+# }
+{
+  "title": "PaperTowns",
+  "author": "John Green",
+  "url": "getbooks.info",
+  "likes": 369
+}
